@@ -1,0 +1,12 @@
+input("nama mahasiswa :")
+input("nim lengkap :")
+a = int(input("digit A :"))
+b = int(input("digit B :"))
+
+print("====  HASIL PERBANDIGAN ===")
+print("A > B :",a>b)
+print("A < B :",a<b)
+print("A == B :",a==b)
+print("A != B :",a!=b)
+print("A >= B :",a>=b)
+print("A <= B :",a<=b)
